@@ -13,7 +13,7 @@ Brief description of your project.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/greenprem/twitterX-python.git
 2. Navigate to project directory
   ```sh
   cd twitterX-python
