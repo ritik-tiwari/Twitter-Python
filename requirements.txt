@@ -1,4 +1,0 @@
-nltk
-requests
-Flask
-flask-cors

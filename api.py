@@ -1,8 +1,8 @@
 import nltk
 import requests
 import jwt
-#nltk.download('vader_lexicon')
-from nltk.sentiment.vader import SentimentIntensityAnalyzer
+nltk.download('vader_lexicon')
+from  nltk.sentiment.vader import SentimentIntensityAnalyzer
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 # Initialize the VADER sentiment analyzer
